@@ -1,5 +1,40 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Sep '18
+
+* Web
+  - https://code.tutsplus.com/tutorials/rest-vs-grpc-battle-of-the-apis--cms-30711 #rest #grpc
+  - https://imagekit.io/demo/http2-vs-http1 #http2 #demo
+  - https://deliciousbrains.com/performance-best-practices-http2/ #http2
+  - https://www.smashingmagazine.com/2017/04/guide-http2-server-push/ #http2
+  - https://www.creativebloq.com/ux/paginate-or-infinite-scroll-71515816 #infinite-scrolling
+  - https://www.smashingmagazine.com/2016/03/pagination-infinite-scrolling-load-more-buttons/ #infinite-scrolling
+  - https://opensourceforu.com/2016/08/infinite-scrolling-pagination-load-choose-e-commerce-website/ #infinite-scrolling
+  - https://uxplanet.org/ux-infinite-scrolling-vs-pagination-1030d29376f1 #infinite-scrolling
+  - https://medium.com/@dalpattapaniya/infinite-scrolling-vs-pagination-f237592f339a #infinite-scrolling
+
+* APIs
+  - https://blog.apisyouwonthate.com/creating-api-specifications-from-bulls-t-f5a54c005135 #openapi
+  - https://blog.apisyouwonthate.com/turning-contracts-into-beautiful-documentation-deac7013af18 #openapi
+  - https://blog.apisyouwonthate.com/tricking-colleagues-into-writing-documentation-via-contract-testing-206308b47e05 #openapi
+  - http://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-8-splitting-specification-file/ #openapi
+
+* Blogs
+  - https://medium.com/netflix-techblog/pseudo-localization-netflix-12fff76fbcbe #vernacular
+  - https://medium.com/@criccomini/how-to-paint-a-bike-shed-kafka-topic-naming-conventions-1b7259790073 #kafka
+  - https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85 #kafka
+  - https://www.confluent.io/blog/no-more-silos-how-to-integrate-your-databases-with-apache-kafka-and-cdc #slack #kafka
+  - https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines #slack #kafka
+
+* Python
+  - https://stackoverflow.com/questions/9193603/applying-a-coloured-overlay-to-an-image-in-either-pil-or-imagemagik #collage
+  - http://book.pythontips.com/en/latest/decorators.html #search
+  - https://docs.eyesopen.com/toolkits/cookbook/python/image-manipulation/addlogo.html #collage
+
+* Unsorted
+  - https://aws.amazon.com/blogs/aws/queues-and-notifications-now-best-friends/ #aws #sqs #sns
+  - https://www.wisdomgeek.com/community-management/lessons-learnt-from-scaling-facebook-developer-community/ #community
+
 ## Aug '18
 
 * Web
