@@ -1,5 +1,17 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Oct '18
+
+* Work
+  - https://inthebooks.800ceoread.com/editors-choice/articles/it-doesn-t-have-to-be-crazy-at-work #slack
+  - https://medium.com/@byrnereese/the-skateboard-mindset-in-product-development-ddf3409d5e98 #slack
+  - https://triplebyte.com/blog/interview-with-gmail-creator-and-y-combinator-partner-paul-buchheit #slack
+
+* Unsorted
+  - https://firebase.google.com/docs/cloud-messaging/concept-options#lifetime #push-notifications
+  - https://www.compose.com/articles/schema-migrations-with-alembic-python-and-postgresql/ #python #sql #slack
+  - https://medium.com/googleplaydev/what-a-new-publishing-format-means-for-the-future-of-android-2e34981793a #android #slack
+
 ## Sep '18
 
 * Web
