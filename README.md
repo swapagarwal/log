@@ -1,5 +1,16 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Nov '18
+
+* Design
+  - https://www.switchtosketchapp.com/ #sketch #ux
+  - https://www.youtube.com/playlist?list=PLeWHfyz6lrQXHKy01OlALt3xZRZCPi89V #invision #prototyping
+
+* Work
+  - https://firstround.com/review/speed-as-a-habit/ #slack
+  - https://eng.uber.com/driver-app-optimistic-mode/?amp #slack
+  - https://www.youtube.com/watch?v=uEl2KUZ3JWA #slack
+
 ## Oct '18
 
 * Work
