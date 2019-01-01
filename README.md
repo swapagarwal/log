@@ -1,5 +1,26 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Dec '18
+
+* Design
+  - https://webdesign.tutsplus.com/tutorials/sketch-for-beginners-design-a-login-form-interface--cms-21534 #sketch
+  - https://www.youtube.com/playlist?list=PLWlUJU11tp4fEXI8deWhBQAHDv9R23WHB #sketch
+  - https://www.youtube.com/playlist?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS #sketch
+  - https://vimeo.com/305601486/a1388ac3a9 #ui #ux
+
+* Work
+  - http://s.petrunia.net/blog/?p=24 #sql
+  - https://www.percona.com/blog/2009/03/05/what-does-using-filesort-mean-in-mysql/ #sql
+  - https://medium.com/datadriveninvestor/bloom-filter-a-simple-but-interesting-data-structure-37fd53b11606 #bloom-filter
+  - https://www.openmymind.net/redis.pdf #redis
+  - https://medium.com/web-engineering-vox/building-a-scheduler-with-redis-e890e637e14c #redis
+  - https://redislabs.com/ebook/part-2-core-concepts/chapter-6-application-components-in-redis/6-4-task-queues/6-4-2-delayed-tasks/ #redis
+  - https://scalegrid.io/blog/6-crucial-redis-monitoring-metrics/ #redis
+
+* Unsorted
+  - https://www.appsflyer.com/wp-content/uploads/2015/06/The-Beginners-Guide-to-Mobile-Advertising-Analytics.pdf #analytics
+  - https://www.fastcompany.com/90275407/the-fate-of-self-driving-cars-hangs-on-a-7-trillion-design-problem #self-driving-cars
+
 ## Nov '18
 
 * Design
