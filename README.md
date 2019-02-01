@@ -1,5 +1,23 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Jan '19
+
+* Design
+  - https://www.invisionapp.com/inside-design/the-8-most-important-ui-animations-of-all-time/ #ui #ux
+  - http://uxchecklist.github.io/ #ux
+
+* Work
+  - https://engineering.quora.com/Continuous-Deployment-at-Quora #slack
+  - https://instagram-engineering.com/storing-hundreds-of-millions-of-simple-key-value-pairs-in-redis-1091ae80f74c #redis
+  - https://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/ #redis
+  - https://en.wikipedia.org/wiki/Spatial_anti-aliasing #visual-search
+  - https://www.mediawiki.org/wiki/User:TJones_%28WMF%29/Notes/Some_Thoughts_on_the_Math_of_Scoring #slack
+
+* Unsorted
+  - https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d #random
+  - https://en.wikipedia.org/wiki/Broken_windows_theory #random
+  - https://www.ted.com/talks/dan_gilbert_researches_happiness #random
+
 ## Dec '18
 
 * Design
