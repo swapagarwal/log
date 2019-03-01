@@ -1,5 +1,18 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Feb '19
+
+* Design
+  - https://cantunsee.space/ #ui
+  - https://www.youtube.com/watch?v=B4XHaboNMOI #refactor #ui
+  - https://www.invisionapp.com/studio/learn #ux #invision
+
+* Work
+  - https://en.wikipedia.org/wiki/Perceptual_hashing #visual-search
+  - https://hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html #visual-search
+  - https://hackerfactor.com/blog/index.php?/archives/529-Kind-of-Like-That.html #visual-search
+  - https://hackerfactor.com/blog/index.php?/archives/355-How-I-Met-Your-Mother-Through-Photoshop.html #visual-search
+
 ## Jan '19
 
 * Design
