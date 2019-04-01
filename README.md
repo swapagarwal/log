@@ -1,5 +1,15 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Mar '19
+
+* Work
+  - https://jenssegers.com/61/perceptual-image-hashes #visual-search
+  - https://pythonformachinelearning.wordpress.com/2014/08/15/your-very-own-personalised-image-search-using-python/ #visual-search
+  - https://www.pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/ #visual-search
+  - https://cloudinary.com/blog/how_to_automatically_identify_similar_images_using_phash #visual-search
+  - https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf #visual-search
+  - https://www.vidbeo.com/blog/hls-vs-dash/ #slack
+
 ## Feb '19
 
 * Design
