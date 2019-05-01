@@ -1,5 +1,20 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Apr '19
+
+* Work
+  - https://medium.com/@adhorn/patterns-for-resilient-architecture-part-2-9b51a7e2f10f #slack
+  - https://martinfowler.com/articles/domain-oriented-observability.html #slack
+  - https://www.youtube.com/watch?v=DngAZyWMGR0 #slack
+  - https://medium.com/develbyte/troubleshooting-in-redshift-c1ca4c7f7998 #slack
+  - https://www.youtube.com/watch?v=gfh-VCTwMw8 #slack
+  - https://medium.com/machine-learning-world/feature-extraction-and-similar-image-search-with-opencv-for-newbies-3c59796bf774 #visual-search
+
+* Unsorted
+  - https://medium.com/@eriktorenberg_/life-capital-9e5028c0ea12 #random
+  - https://en.wikipedia.org/wiki/Golomb_coding #random
+  - https://uxdesign.cc/gamification-aguide-for-designers-to-a-misunderstood-concept-4de5bef0c5d9 #design
+
 ## Mar '19
 
 * Work
