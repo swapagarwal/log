@@ -1,5 +1,16 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## May '19
+
+* Work
+  - https://blog.hotstar.com/when-hotstar-met-exoplayer-5b9ea500bd0 #slack
+  - https://www.singhkays.com/blog/its-time-replace-gifs-with-av1-video/ #slack
+  - https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html #product
+  - https://stackshare.io/stack-history-timeline-uber-tech-stack-evolution #slack
+  - https://www.youtube.com/watch?v=Qq3OiHQ-HCU #product
+  - https://medium.com/@abyshake/what-your-business-can-learn-from-uber-ratings-c3d2eab501a5 #product
+  - http://joelcalifa.com/blog/tiny-wins/ #product
+
 ## Apr '19
 
 * Work
