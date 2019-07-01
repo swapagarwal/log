@@ -1,5 +1,13 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## June '19
+
+* Work
+  - https://www.invisionapp.com/inside-design/8-critical-shortcuts-in-sketch/ #design
+  - https://medium.com/@mrlanning/11-sketch-shortcuts-tips-to-save-you-a-ton-of-time-46e83fd9385c #design
+  - https://www.jwilber.me/permutationtest/ #slack
+  - https://blog.usejournal.com/great-interfaces-are-made-of-good-typography-765f550493b2 #slack
+
 ## May '19
 
 * Work
