@@ -1,5 +1,12 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## July '19
+
+* Work
+  - https://vicki.substack.com/p/you-dont-need-kafka #slack
+  - https://hackernoon.com/building-conclave-a-decentralized-real-time-collaborative-text-editor-a6ab438fe79f #slack
+  - https://dribbble.com/stories/2019/07/05/5-online-typography-exercises-to-improve-your-skills #design
+
 ## June '19
 
 * Work
