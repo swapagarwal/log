@@ -1,5 +1,15 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Aug '19
+
+* Work
+  - https://medium.com/s/buy-yourself/people-dont-buy-products-they-buy-better-versions-of-themselves-d481390bfcee #product
+
+* Unsorted
+  - https://www.youtube.com/playlist?list=PLPmnoMVpkxfjW_j5sjGSkNUtjRQl9E8vl #learn
+  - https://www.dropbox.com/s/0qvli6ifgeynaaw/2019_08_09-open-bod-1.pdf?dl=0 #product
+  - https://beatboxingforkids.fun/ #learn
+
 ## July '19
 
 * Work
