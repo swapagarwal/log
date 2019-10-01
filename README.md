@@ -1,5 +1,12 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Sept '19
+
+* Learn
+  - https://learningmusic.ableton.com/ #music
+  - https://www.skillshare.com/classes/Ableton-Live-I-The-First-Steps-of-Digital-Music-Production/1289934757/reviews #music
+  - https://www.skillshare.com/classes/Ultimate-Ableton-Live-Part-1-The-Interface-The-Basics/1209855040/reviews #music
+
 ## Aug '19
 
 * Work
