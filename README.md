@@ -1,5 +1,11 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Oct '19
+
+* Learn
+  - https://www.coursera.org/learn/ableton-live #music
+  - https://www.youtube.com/playlist?list=PLDtHAiqIa4wa5MBbE_XDoqY51sAkQnkjt #ui #ux
+
 ## Sept '19
 
 * Learn
