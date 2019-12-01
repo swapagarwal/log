@@ -1,5 +1,13 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Nov '19
+
+* Learn
+  - https://www.youtube.com/playlist?list=PL7I-Eysv4kq4P9a_942suQdE1_0WiFxFo #podcast
+  - https://www.youtube.com/watch?v=lthfXQG99Jg #sales
+  - https://www.youtube.com/watch?v=3658C2y4LlA #d&d
+  - https://moretothat.com/thankful/ #gratitude
+
 ## Oct '19
 
 * Learn
