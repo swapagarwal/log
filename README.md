@@ -1,5 +1,93 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Nov '20
+
+* Unsorted
+  - https://www.youtube.com/playlist?list=PLuJsxA8NIizhJvn9yLv---WODL8D3NywA #blender
+  - https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6 #blender
+  - https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U #blender
+
+## Oct '20
+
+* Unsorted
+  - https://fitshit.in/fraudulent-health-marketing/ #random
+
+## Sept '20
+
+* Unsorted
+  - https://www.youtube.com/watch?v=3LopI4YeC4I #random
+  - https://scastiel.dev/posts/2020-07-23-animated-3d-book-css/ #ui
+
+## Aug '20
+
+* Unsorted
+  - http://www.paulgraham.com/growth.html #startup
+
+## July '20
+
+* Unsorted
+  - https://slack.design/articles/designing-teamwork-how-our-customers-shaped-the-future-of-slack/ #design
+  - https://blog.samaltman.com/how-to-be-successful #random
+  - https://www.youtube.com/watch?v=nMPqsjuXDmE #random
+
+## June '20
+
+* Unsorted
+  - https://techcrunch.com/2013/10/19/the-ultimate-cheat-sheet-for-reinventing-yourself/ #random
+  - https://analytics.google.com/analytics/academy/course/7 #analytics
+  - https://analytics.google.com/analytics/academy/course/10 #analytics
+  - https://wesbos.com/speed-learning #random
+
+## May '20
+
+* Unsorted
+  - https://analytics.google.com/analytics/academy/course/6 #analytics
+
+## Apr '20
+
+* Unsorted
+  - https://www.joelonsoftware.com/2004/12/15/camels-and-rubber-duckies/ #sales
+  - https://blog.matsu.io/on-leaving #fire
+
+## Mar '20
+
+* Unsorted
+  - https://retired.re-ynd.com/ #fire
+  - https://blog.wunderbucket.io/mac-audiozue.html #swift
+  - https://unbridled.world/dropshipping-a-good-business-model-for-digital-nomads/ #fire
+  - https://ulriklyngs.com/post/2018/11/02/how-to-build-safari-app-extensions/ #swift
+  - https://medium.com/@devanshgulhane/the-i-m-possible-list-challenge-yourself-to-reach-seemingly-impossible-life-goals-7a1b6d3af34a #random
+  - https://medium.com/@IrrationalLabs/move-over-product-manager-introducing-the-behavioral-product-manager-3b2f8fae6dd #random
+
+## Feb '20
+
+* Unsorted
+  - https://www.youtube.com/watch?v=ii89L7LVAs4 #swift
+  - http://footle.org/WeatherBar/ #swift
+  - https://medium.com/swlh/build-your-first-macos-app-5d36d3352691 #swift
+  - https://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange #random
+
+## Jan '20
+
+* Unsorted
+  - https://www.youtube.com/watch?v=Unzc731iCUY #marketing
+  - https://www.skillshare.com/classes/Humor-Writing-Write-Funny-for-the-Internet/278668683 #marketing
+  - https://designcode.io/ #swift
+  - https://www.raywenderlich.com/ios/learn #swift
+  - https://www.coursera.org/learn/marketing-digital #marketing
+
+## Dec '19
+
+* Learn
+  - https://www.dndbeyond.com/sources/basic-rules #d&d
+  - https://redeye.firstround.com/2007/03/the_first_penny.html #sales
+  - https://anchor.fm/startapodcast #podcast
+  - https://www.skillshare.com/classes/Learn-to-Teach-an-Amazing-Skillshare-Class/2026948765 #random
+  - https://thesoftwaremanager.com #fun
+  - https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/ #random
+  - https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9 #ux
+  - https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/ #ux
+
 ## Nov '19
 
 * Learn
