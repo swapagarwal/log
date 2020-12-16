@@ -1,5 +1,10 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Dec '20
+
+* Unsorted
+  - https://www.youtube.com/watch?v=mkvvawRY3Iw #random
+
 ## Nov '20
 
 * Unsorted
