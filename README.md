@@ -1,5 +1,12 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Dec '20
+
+* Unsorted
+  - https://www.youtube.com/watch?v=mkvvawRY3Iw #life #advice
+  - https://drive.google.com/file/d/1xZJJ3P3Pxhx_Wz_IOssloviE4KWXEzd5/view #life #advice
+  - https://maggieappleton.com/basb/ #random
+
 ## Nov '20
 
 * Unsorted
