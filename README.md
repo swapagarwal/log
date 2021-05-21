@@ -5,6 +5,7 @@
 * Unsorted
   - https://www.oberlo.com/blog/how-i-built-a-dropshipping-store-that-made-6667-in-under-8-weeks
   - https://www.youtube.com/watch?v=oFDWOXV6iEM
+  - https://www.youtube.com/watch?v=T6tEplNZ5Ts
 
 ## Mar '21
 
