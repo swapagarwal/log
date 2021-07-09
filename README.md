@@ -1,5 +1,10 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## July '21
+
+* Unsorted
+  - https://practicaltypography.com/
+
 ## May '21
 
 * Unsorted
