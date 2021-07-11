@@ -4,6 +4,7 @@
 
 * Unsorted
   - https://practicaltypography.com/
+  - https://fiftytwo.in/story/friends/
 
 ## May '21
 
