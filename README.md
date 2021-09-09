@@ -1,5 +1,35 @@
 # Captain's Log, USS Enterprise (NCC-1701)
 
+## Aug '21
+
+* Unsorted
+  - https://byrnehobart.medium.com/sin-secret-series-a-4046aedf8e75
+  - https://learnui.design/hsb.html
+
+## July '21
+
+* Unsorted
+  - https://practicaltypography.com/
+  - https://fiftytwo.in/story/friends/
+  - https://www.notboring.co/p/the-great-online-game
+
+## May '21
+
+* Unsorted
+  - https://www.oberlo.com/blog/how-i-built-a-dropshipping-store-that-made-6667-in-under-8-weeks
+  - https://www.youtube.com/watch?v=oFDWOXV6iEM
+  - https://www.youtube.com/watch?v=T6tEplNZ5Ts
+
+## Mar '21
+
+* Unsorted
+  - http://www.paulgraham.com/love.html
+
+## Jan '21
+
+* Unsorted
+  - https://www.vektors.pro/
+
 ## Dec '20
 
 * Unsorted
